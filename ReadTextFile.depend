@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1714619195 source:c:\users\abc\documents\codeblock\readtextfile\readtext.c
+	<stdio.h>
+	<string.h>
+
